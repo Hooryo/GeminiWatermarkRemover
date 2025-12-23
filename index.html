@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gemini Watermark Remover</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>✦ Gemini Watermark Remover</h1>
+            <p>Remove Gemini AI watermarks. 100% client-side processing.</p>
+        </header>
+
+        <!-- Method Selection -->
+        <div class="method-section">
+            <h3>Removal Method</h3>
+            <div class="method-buttons">
+                <button class="method-btn active" data-method="alpha-blending">
+                    <span class="icon">⚡</span>
+                    <span class="label">Quick (Alpha Blending)</span>
+                    <span class="desc">Instant • No download</span>
+                </button>
+                <button class="method-btn" data-method="lama-ai">
+                    <span class="icon">🧠</span>
+                    <span class="label">AI (LaMa Inpainting)</span>
+                    <span class="desc" id="lama-status">~200MB model</span>
+                </button>
+            </div>
+        </div>
+
+        <!-- Upload Area -->
+        <div class="upload-area" id="upload-area">
+            <div class="upload-content">
+                <span class="upload-icon">🖼️</span>
+                <p>Drop images here or click to select</p>
+                <small>Supports JPEG, PNG, WebP</small>
+            </div>
+            <input type="file" id="file-input" multiple accept=".jpg,.jpeg,.png,.webp,image/jpeg,image/png,image/webp">
+        </div>
+
+        <!-- Error Message -->
+        <div class="error-message" id="error-message"></div>
+
+        <!-- File List -->
+        <div class="file-list" id="file-list"></div>
+
+        <!-- Action Buttons -->
+        <div class="actions" id="actions" style="display: none;">
+            <button class="btn btn-secondary" id="clear-btn">Clear</button>
+            <button class="btn btn-primary" id="process-btn">Remove Watermarks</button>
+        </div>
+
+        <!-- Progress -->
+        <div class="progress" id="progress" style="display: none;">
+            <div class="progress-text" id="progress-text">Processing...</div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-fill"></div>
+            </div>
+        </div>
+
+        <!-- Results -->
+        <div class="results" id="results"></div>
+
+        <!-- Download All -->
+        <div class="download-all" id="download-all" style="display: none;">
+            <button class="btn btn-success" id="download-all-btn">Download All</button>
+        </div>
+
+        <footer>
+            <p>
+                <a href="https://github.com/PlayerYK/GeminiWatermarkRemover" target="_blank">GitHub Gemini Watermark
+                    Remover</a>
+            </p>
+        </footer>
+    </div>
+
+    <script src="engine.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
